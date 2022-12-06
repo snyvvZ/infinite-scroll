@@ -9,10 +9,6 @@ const Item = ({ number }) => {
         <ItemWrapBodyTitle />
         <ItemWrapBodyTitle />
         <ItemWrapBodyTitle />
-        <ItemWrapBodyTitle />
-        <ItemWrapBodyTitle />
-        <ItemWrapBodyTitle />
-        <ItemWrapBodyTitle />
       </ItemWrapBody>
     </ItemWrap>
   );
